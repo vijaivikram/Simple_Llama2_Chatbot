@@ -53,5 +53,12 @@ llm = Ollama(model='<your_model_name>')
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+- User Interface
+
+![2](https://github.com/vijaivikram/Simple_Llama2_Chatbot/assets/87110829/723735d3-ea40-48e6-ace0-bc6ea67d125d)
+
+- Sample Query and Answer
+  
+![1](https://github.com/vijaivikram/Simple_Llama2_Chatbot/assets/87110829/da2a6096-2177-444c-a232-4ebfb8b748b4)
+
 
