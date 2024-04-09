@@ -40,7 +40,7 @@ streamlit run localama.py
 ```
 
 ### Incase of Model change
-If you are interested in a different open source LLM model, you can install that particular model using the command
+If you are interested in a different open source LLM model, you can install that particular model by opening the command prompt and by using the command
 
 ```bash
 ollama run <your_model_name>
